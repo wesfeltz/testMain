@@ -43,7 +43,7 @@ public class SeleniumTest {
 
         // Print a Log In message to the screen
 
-        System.out.println("Login Successfully");
+        System.out.println("Login Successfully my dude");
 
         // Find the element that's ID attribute is 'account_logout' (Log Out)
 

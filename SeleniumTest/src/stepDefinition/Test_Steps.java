@@ -85,7 +85,7 @@ public void user_LogOut_from_the_Application() throws Throwable {
 public void message_displayed_LogOut_Successfully() throws Throwable {
 	// Print a Log In message to the screen
 
-    System.out.println("LogOut Successfully");
+    System.out.println("LogOut Successfully my dude");
 
     // Close the driver
 

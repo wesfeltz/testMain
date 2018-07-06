@@ -131,4 +131,6 @@
 <classifier/>
 </dependency>
 </dependencies>
+	<name>test</name>
+	<description>test</description>
 </project>

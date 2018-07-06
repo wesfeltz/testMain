@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test name="order">
 		<classes>
-			<class name="cucumberTest.SeleniumTest" />
+			<class name="cucumberTest.SeleniumTest"/>
 		</classes>
 	</test>
 </suite>
