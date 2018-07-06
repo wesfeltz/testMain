@@ -18,7 +18,7 @@ public class myclass {
 	 public static WebDriver driver;
 	 @Test
 	public static void main(String[] args) throws InterruptedException {
-		System.out.println("launching chrome browser");
+		System.out.println("launching chrome browser my dude");
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\Wes\\eclipse-workspace\\SeleniumTest\\chromedriver.exe");
 		driver = new ChromeDriver();
 		driver.navigate().to("http://www.google.com");
